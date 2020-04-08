@@ -1,0 +1,2 @@
+# Spigotia
+Spigotia but vanilla
